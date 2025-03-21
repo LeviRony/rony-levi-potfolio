@@ -1,3 +1,49 @@
+# Rony Levi's Portfolio
+
+Welcome to my personal portfolio repository! This repository showcases my work as a **React Developer** and **Full Stack Developer**, highlighting projects that demonstrate my skills in both **frontend** and **backend** development. The projects featured here utilize technologies such as **React**, **JavaScript**, **HTML**, **CSS**, **Node.js**, **MongoDB**, and **SQL**, showcasing my expertise in building responsive, user-friendly web applications.
+
+---
+
+## 🛠️ **Technologies & Tools Used**
+
+- **Frontend**: React, JavaScript, HTML, CSS
+- **Backend**: Node.js, Express, MongoDB, SQL
+- **Version Control**: Git, GitHub
+- **Deployment**: Heroku, Netlify, Vercel
+
+---
+
+## 💡 **What You’ll Find Here**
+
+### **React-based Applications**
+Interactive, dynamic front-end applications built using the latest **React** features like hooks, context, and routing.
+
+### **Full-stack Projects**
+End-to-end solutions that integrate **frontend** with **backend** services, utilizing REST APIs and database management.
+
+### **Code Structure**
+Well-documented, maintainable code that follows industry best practices, including separation of concerns and clean architecture.
+
+### **Version Control**
+The repository is managed using **Git** and hosted on **GitHub** to ensure smooth collaboration and continuous improvement. All code is versioned and commits are structured for easy collaboration.
+
+---
+
+## 📬 **Get In Touch**
+Feel free to explore my projects and get in touch with me for **collaboration** or **job opportunities**. You can also find additional resources, such as blog posts and technical write-ups, on my **[LinkedIn](https://www.linkedin.com/in/rony-levi/)** or **[GitHub](https://github.com/LeviRony)** profiles.
+
+---
+
+## 🚀 **Demo Projects**
+- **Project 1**: [My First Website](https://levirony.github.io/Rony_Levi_Profile/index.html)
+- **Project 2**: [Shop](https://github.com/LeviRony/Shop)
+- **Project 3**: [Shop-Server](https://github.com/LeviRony/RestAPI)
+- **Project 4**: [Calculator](https://github.com/LeviRony/Calculator)
+
+---
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
